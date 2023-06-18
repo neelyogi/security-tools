@@ -13,9 +13,7 @@
 ****************************************************************************************
 
 <H3>Importance of Security</H3> 
-  <li> Cybersecurity is a crucial aspect of protecting businesses,
-  organizations, and individuals </li>
-  <li> This applies to all types of business and non-profit
-  organizations </li>
-   <li> Businesses, organizations, and individuals need to safeguard against cyber threats such as data breaches, malware attacks, phishing scams,and many more such attacks </li>
+  <li> Cybersecurity is a crucial aspect of protecting businesses,organizations, and individuals </li>
+  <li> This applies to all types of business and non-profit organizations </li>
+  <li> Businesses, organizations, and individuals need to safeguard against cyber threats such as data breaches, malware attacks, phishing scams,and many more such attacks </li>
    <li> On average, statistics have it that 71.1 million people become victims of cybercrimes every year!!</li>
