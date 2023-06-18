@@ -20,11 +20,33 @@
 
 ****************************************************************************************
 
-<H4>Role of opensource security tools </H4>
+<H3> Role of opensource security tools</H3>
   <li> Security is an integral part of any business </li>
-  <li> Requires specialized tools and knowledge to ensure they
-are implemented correctly. </li>
-<li> There are a wide variety of open-source tools and
-technologies available to help. </li>
-<li> Opensource solutions are a very popular option due to their
-cost-effectiveness and flexibility. </li>
+  <li> Requires specialized tools and knowledge to ensure they are implemented correctly. </li>
+<li> There are a wide variety of open-source tools and technologies available to help. </li>
+<li> Opensource solutions are a very popular option due to their cost-effectiveness and flexibility. </li>
+<li> Opensource security tools go through a lot of scrutiny and validation by industry experts making them a popular choice. </li>
+
+****************************************************************************************
+
+<H3>Security awareness - Get smarter, get safer</H3>
+<li> The very first best protection is imparting awareness and education about security. </li>
+<li> Everyone in the organization needs to understand the importance of security at all levels </li>
+<li> There is a need to promote proactivate, smart behavior inorganizations in order to foster a security-conscious
+culture. </li>
+<li> There are several opensource security tools and resources available and suitable for individuals, Small and Medium Businesses, Schools/education institutions and non-profit organizations. </li>
+
+****************************************************************************************
+
+<H3> Cyber Security Tools for Small and Medium Businesses</H3>
+<li> Small and medium business should consider adding security requirements as part of their products </li>
+<li> If security is not considered, it can lead to vulnerabilities being exploited </li>
+<li> If the vulnerabilities are exploited, it can lead to losing customer trust and also pay penalties </li>
+<li> In addition to adding security as part of the product,they should always perform ongoing security testing to ensure they are always secure </li>
+<li> Penetration testing and continuous security monitoring can help with ongoing security </li>
+
+
+
+
+
+
