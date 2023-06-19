@@ -54,8 +54,7 @@ culture. </li>
  <li> Zed Attack Proxy, Nikto, Wapiti, Wfuzz, W3af </li>
 <H4> DB Security tools for protecting database </H4>
  <li> SqlMap and NoSQLMap </li>
-<H4> Code Scanning tools to check the quality of the code and checks of security issues before it is
-deployed into the server </H4>
+<H4> Code Scanning tools to check the quality of the code and checks of security issues before it is deployed into the server </H4>
  <li> SonarQube, Horusec </li>
 <H4> Vulnerability assessment tools for ongoing security testing </H4>
  <li> OpenVas </li>
@@ -72,8 +71,7 @@ deployed into the server </H4>
 <li> For non-profit, protecting user information is very critical </li>
 <li> Most of such information will be stored in Database. Hence database security is critical </li>
 <H4> Even within the organization they need to protect the information only for people who need to know </H4>
- <li> In security it is called access based on ‘need to know’ basis </li>
- <li> This is achieved by having proper access control </li>
+ <li> In security it is called access based on ‘need to know’ basis. This is achieved by having proper access control </li>
 
 ****************************************************************************************
 
@@ -112,6 +110,78 @@ opensource security tools </li>
             <tr>
             <td>Network Mapper</td>
             <td>NMAP</td>
+        </tr>
+            <tr>
+            <td>AntiVirus</td>
+            <td>ClamAV</td>
+        </tr>
+            <tr>
+            <td>Incident response</td>
+            <td>TheHive</td>
+        </tr>
+            <tr>
+            <td>Security Appliance</td>
+            <td>PFSense</td>
+        </tr>
+            <tr>
+            <td>Endpoint Visibility</td>
+            <td>Osquery</td>
+        </tr>
+            <tr>
+            <td>Packet capture and search</td>
+            <td>Arkime</td>
+        </tr>
+            <tr>
+            <td>XDR and SIEM</td>
+            <td>Wazuh, Alien Vault Ossim</td>
+        </tr>
+            <tr>
+            <td>Forensic and Incident Response</td>
+            <td>Velociraptor</td>
+        </tr>
+            <tr>
+            <td>Threat Intelligence</td>
+            <td>MISP project</td>
+        </tr>
+            <tr>
+            <td>Security Operating System</td> 
+            <td>Kali Linux, Parrot</td>
+        </tr>
+            <tr>
+            <td>Identity and access management</td>
+            <td>OpenIAM</td>
+        </tr>
+            <tr>
+            <td>Malware analysis</td>
+            <td>Yara</td>
+        </tr>
+            <tr>
+            <td>VPN</td>
+            <td>Wireguard</td>
+        </tr>
+            <tr>
+            <td>HIDS</td>
+            <td>OSSEC</td>
+        </tr>
+            <tr>
+            <td>IDS/IPS</td>
+            <td>Suricata</td>
+        </tr>
+            <tr>
+            <td>Anti-phishing</td>
+            <td>Phish Report</td>
+        </tr>
+            <tr>
+            <td>Log Management</td>
+            <td>Gray log</td>
+        </tr>
+            <tr>
+            <td>DevOps</td>
+            <td>Trivy</td>
+        </tr>
+            <tr>
+            <td>EDR</td>
+            <td>OpenEDR</td>
         </tr>
     </tbody>
 </table>
