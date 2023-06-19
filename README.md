@@ -90,7 +90,7 @@ cybersecurity tools </H3>
 <li> The specific business product may require some additional security with additional security tools </li>
 <li> Depending on the type of the business and their risk, organization and businesses can choose different set of
 opensource security tools </li>
-<li> The subsequent slides provide the extended list of open-source security tools </li>
+<li> The table below provides the extended list of open-source security tools for different areas </li>
 
 ****************************************************************************************
 
